@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chandra and I'm a BlockChain Dev, from Indonesia</p>
+<p align="left">My name is Chandra and I'm a Ai Engineer, from Indonesia</p>
 
 ###
 
